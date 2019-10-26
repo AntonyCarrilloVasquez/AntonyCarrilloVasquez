@@ -1,0 +1,464 @@
+# EJERCICIO 1
+marca="adidas"
+print("el valor de la variable marca es:", marca)
+pantalon=" short negro "
+print("el valor de la variable pantalon es:", pantalon)
+nombre=" Antony "
+print("el valor de la variable nombre es:", nombre)
+print("hola", nombre + "deberias usar tu", pantalon + "marca", marca)
+#EJERCICIO 2
+carrera="ing. electronica"
+print("el valor de la variable carrera es:", carrera)
+universidad= " Pedro Ruiz Gallo "
+print("el valor de la varible universidad es:", universidad)
+apodo=" cachimbo "
+print("el valor de la variable apodo es:", apodo)
+print("hey", apodo + "bienvenido a la", universidad + "en la carrera", carrera)
+#EJERCICIO 3
+numero_de_accidentes_por_año=" 74 accidentes por año "
+print("el valor de la variable numero de accidentes por año es:", numero_de_accidentes_por_año)
+numero_de_muertos="355 muertos"
+print("el valor de la varible numero de muertos es:", numero_de_muertos)
+print("en nuestro pais hay", numero_de_accidentes_por_año + "la cual causa", numero_de_muertos)
+#EJERCICIO 4
+nombre_del_profesor=" Profesor Diaz "
+print("el valor de la variable nombre del profesor es:", nombre_del_profesor)
+curso_a_cargo=" programacio I "
+print("el valor de la variable curso a cargo es:", curso_a_cargo)
+solo_lo_llevan="ing.electronica"
+print("el valor de la variable solo lo llevan es:", solo_lo_llevan)
+print("el", nombre_del_profesor + "dicta la clase de", curso_a_cargo + "solo a los de", solo_lo_llevan)
+#EJERCICIO 5
+numero_de_niños=" 42 niños "
+print("el valor de la variable numero de niños es:", numero_de_niños)
+numero_de_adultos=" 24 adultos "
+print("el valor de la variable numero de adultos es:", numero_de_adultos)
+numero_de_entradas_vendidas=" 79 tickets "
+print("el valor de la variable numero de entradas vendidas es:", numero_de_entradas_vendidas)
+print("en el circo se vendieron", numero_de_entradas_vendidas + "las cuales entraron", numero_de_niños + "y", numero_de_adultos)
+#EJERCICO 6
+nombre_del_padre=" Antonio "
+print("el valor de la variable nombre del padre es:", nombre_del_padre)
+nombre_de_la_madre=" Maria "
+print("el valor de la variable nombre de la madre es:", nombre_de_la_madre)
+numero_de_hijos=" 2 hijos "
+print("el valor de la variable numero de hijos es:", numero_de_hijos)
+print(nombre_del_padre + "y", nombre_de_la_madre + "tienen", numero_de_hijos)
+#EJERCICIO 7
+numero_de_DNI=" 75576839 "
+print("el valor de la variable numero de DNI es:", numero_de_DNI)
+nombre_de_tia=" Alcira "
+print("el valor de la variable nombre de tia es:", nombre_de_tia)
+edad=" 51 años "
+print("el valor de la variable edad es:", edad)
+print(nombre_de_tia + "de", edad + "tiene como numero de DNI", numero_de_DNI)
+#EJERCICIO 8
+edad_de_hermano=" 18 años "
+print("edad de hermano es:", edad_de_hermano)
+trabajo_de_hermano=" dibujante "
+print("trabajo de hermano es:", trabajo_de_hermano)
+lugar_donde_trabaja=" colegios "
+print("lugar donde trabaja en:", lugar_donde_trabaja)
+print("mi hermano de", edad_de_hermano + "trabaja como", trabajo_de_hermano + "en los", lugar_donde_trabaja)
+#EJERCICIO 9
+nombre_de_hermana=" Evelyn "
+print("nombre de hermana es:", nombre_de_hermana)
+edad_de_hermana=" 8 añitos "
+print("edad de mi hermana es:", edad_de_hermana)
+estudia=" en el colegio 10226 "
+print("estudia en:", estudia)
+print(nombre_de_hermana + "de", edad_de_hermana + "estudia en", estudia)
+#EJERCICIO 10
+inicio_de_clases=" 30/09/19 "
+print("inicio de clases es:", inicio_de_clases)
+carrera=" ing.electronica "
+print("carrera de:", carrera)
+horario=" 7am - 2pm "
+print("horario es:", horario)
+print("mis estudios universitarios empezaron el", inicio_de_clases + "en la carrera de", carrera + "con el siguiente horario de", horario)
+#EJERCICIO 11
+mi_numero_de_celular=" 926066552 "
+print("mi numero de celular es:", mi_numero_de_celular)
+mi_edad=" 18 años "
+print("mi edad es:", mi_edad)
+genero=" masculino "
+print("genero es:", genero)
+print("tengo", mi_edad + ", mi numero es", mi_numero_de_celular + "y soy de genero", genero)
+#EJERCICIO 12
+el_numero_de_estudiantes_de_la_pedro=" 1589 de estudiantes "
+print(" el numero de estudiantes de la pedro es:", el_numero_de_estudiantes_de_la_pedro)
+el_numero_de_estudiantes_senati=" 849 de estudiantes "
+print("el numero de estudiantes senati es:", el_numero_de_estudiantes_senati)
+el_numero_de_estudiantes_UCV=" 2231 de estudiantes "
+print("el numero de estudiantes es:", el_numero_de_estudiantes_UCV)
+print("la cantidad de estudiantes de la pedro son", el_numero_de_estudiantes_de_la_pedro + "y en el senati son", el_numero_de_estudiantes_senati)
+#EJERCICO 13
+marca_de_ceular=" samsung "
+print("marca de celular es:", marca_de_ceular)
+costo_de_celular=" 1200 soles "
+print("costo de celular es:", costo_de_celular)
+fecha_de_compra=" 21-03-18 "
+print("fecha de compra fue:",fecha_de_compra)
+print("me compré un celular de la marca", marca_de_ceular + "la cual me costó", costo_de_celular + "en la fecha", fecha_de_compra)
+#EJERCICIO 14
+codigo_de_estudiante=" 195694H "
+print("codigo de estudiante es:", codigo_de_estudiante)
+apellidos=" Carrillo Vasquez "
+print("Apellidos son:", apellidos)
+lugar_de_vivienda=" tucume "
+print("lugar de vivienda es:", lugar_de_vivienda)
+print("el cachimbo", apellidos + "vive en el distrito de", lugar_de_vivienda + "la cual su codigo es", codigo_de_estudiante)
+#EJERCICIO 15
+numero_de_continentes=" 6 continentes "
+print("numero de continentes es:", numero_de_continentes)
+continente=" america "
+print(" continente es:", continente)
+pais=" Perú "
+print("pais es:", pais)
+print("en el mundo hay", numero_de_continentes + "donde esta", continente + "donde podemos encontrar a", pais)
+#EJERCCIO 16
+estrella=" sol "
+print("estrella es:", estrella)
+sistema_solar=" grande "
+planeta=" tierra "
+print("planeta es:", planeta)
+print("la estrella mas cercana se llama", estrella + "y su tamaño es", sistema_solar + ",lejos de el existe el planeta llamado", planeta)
+#EJERCICIO 17
+colegio=" excelencia college "
+print(" colegio es:", colegio)
+numero_alumnos=" 48 alumnos "
+print("numero de alumnos es:", numero_alumnos)
+promocion=" JESMET "
+print(" promocion es:", promocion)
+print(" el colegio particular", colegio + "su ultima promocion fue", promocion + "que tuvo",numero_alumnos)
+#EJERCICIO 18
+numero_de_muertos_en_la_segunda_guerra_mundial=" 2451 personas "
+print("numero de muertos en la segunda guerra mundial es:", numero_de_muertos_en_la_segunda_guerra_mundial)
+numero_de_muertos_en_la_primera_guerra_mundial=" 61251 personas "
+print("numero de muertos en la primera guerra mundial es:", numero_de_muertos_en_la_primera_guerra_mundial)
+numero_de_guerras=" 2 guerras "
+print("numeros de guerras es:", numero_de_guerras)
+print("en el mundo existieron", numero_de_guerras + "en las cuales perdieron la vida", numero_de_muertos_en_la_primera_guerra_mundial + numero_de_muertos_en_la_segunda_guerra_mundial)
+#EJERCICIO 19
+numero_de_turistas=" 80 personas "
+print("numero de turistas es:", numero_de_turistas)
+numero_de_museos=" 2 museos "
+print("numero de museos es:", numero_de_museos)
+lugar=" tucume "
+print(" lugar es:", lugar)
+print("en el distrito de", lugar + "podemos encontrar", numero_de_museos + "en las cuales hay en cada una", numero_de_turistas)
+#EJERCICIO 20
+numero_de_cursos=" 6 cursos "
+print("numero de cursos es:", numero_de_cursos)
+cantidad_de_creditos=" 20 creditos "
+print("cantidad de creditos es:",cantidad_de_creditos)
+numero_de_profesores=" 6 profesores "
+print("numero de profesores es:", numero_de_profesores)
+print("en la carrera de ing.electronica tenemos", numero_de_profesores + "y", numero_de_cursos + "en lo cual tenemos que tener", cantidad_de_creditos)
+#EJERCICIO 21
+cantidad_de_ropa_lavada=" 31 prendas "
+print("cantidad de ropa lavada es:", cantidad_de_ropa_lavada)
+personal=" 5 personas "
+print("personal es:", personal)
+ropa_sucia=" 54 prendas "
+print("ropa sucia es:", ropa_sucia)
+print("en la lavanderia tenemos trabajando a", personal + "y ya se ha lavado", cantidad_de_ropa_lavada + "pero aun le falta", ropa_sucia)
+#EJERCICIO 22
+local=" un gustito "
+print("local es:", local)
+direccion=" calle san marcelo "
+print("direccion es:",direccion)
+vendemos=" productos lacteos "
+print("vendemos:",vendemos)
+print("en nuestra tienda", local + "vendemos", vendemos + "nos pueden encontrar en la", direccion)
+#EJERCICIO 23
+numero_de_personas_con_sida=" 34 personas "
+print("numero de personas con sida es:", numero_de_personas_con_sida)
+cantidad_de_personas_muertas=" 28 personas "
+print("cantidadad de personas muertas es:", cantidad_de_personas_muertas)
+el_virus_se_llama=" VIH "
+print("el virus se llama:", el_virus_se_llama)
+#EJERCICIO 24
+cantidad_de_panes_vendidos=" 45 panes "
+print("cantidad de panes vendidos es:", cantidad_de_panes_vendidos)
+numero_de_panes_redondos=" 22 panes redondos "
+print("numero de panes redondos es:", numero_de_panes_redondos)
+numero_de_panes_largos=" 23 panes largos "
+print(" numero de panes largos es:", numero_de_panes_largos)
+print("hoy se vendieron", cantidad_de_panes_vendidos + "los cuales fueron", numero_de_panes_redondos + "y", numero_de_panes_largos)
+#EJERCICIO 25
+nombre_de_la_cancion=" yo te esperaré "
+print("nombre de la cancion es:", nombre_de_la_cancion)
+numero_de_likes=" 5263 millones "
+print("numero de likes es:", numero_de_likes)
+numero_de_reproducciones=" 34871 millones de reproducciones "
+print("numero de reproducciones es:", numero_de_reproducciones)
+print("la cancion", nombre_de_la_cancion + "su numero de likes es", numero_de_likes + "y posee", numero_de_reproducciones)
+#EJERCICIO 26
+numero_de_escaleras=" 23235 escaleras "
+print("numero de escaleras es:", numero_de_escaleras)
+altura=" 56 kilometros "
+print("altura es:", altura)
+montaña=" mirador "
+print("montaña:", montaña)
+print("la", montaña + "mide", altura + "y para subir tenemos que ascender", numero_de_escaleras)
+#EJERCICIO 27
+tamaño_de_video=" 20 gb "
+print("tamaño de video es:", tamaño_de_video)
+calidad_de_video=" muy buena "
+print("calidad de video es:", calidad_de_video)
+tema_de_video=" la violacion "
+print("tema de video es:", tema_de_video)
+print("yo me descargué un video que trata sobre la", tema_de_video + "y pesa", tamaño_de_video)
+#EJERCICIO 28
+poblacion_de_peru=" 20 millones de personas "
+print("poblacion de peru es:", poblacion_de_peru)
+cantidad_de_niños=" 5 millones de personas "
+print("cantidad de niños es:", cantidad_de_niños)
+numero_de_niños_sin_hogar=" 1 millon de pesonas "
+print("numero de niños sin hogar es:",numero_de_niños_sin_hogar)
+print("en el peru somos", poblacion_de_peru + "en la cual habitan niños como", cantidad_de_niños + "pero las personas que no tienen hogar son", numero_de_niños_sin_hogar)
+#EJERCICIO 29
+nombre_de_abuela=" flora "
+print("nombre de abuela es:", nombre_de_abuela)
+edad_de_abuela=" 89 años "
+print("edad de abuela es:",edad_de_abuela)
+hijos_que_tiene=" 8 hijos "
+print("mi abuela de nombre", nombre_de_abuela + "tiene", edad_de_abuela + "y tambien tiene", hijos_que_tiene)
+#EJERCICIO 30
+pais_mas_grande=" rusia "
+print("pais mas grande es:",pais_mas_grande)
+numero_de_habitantes=" 615 millones de personas "
+print("numero de habitantes es:", numero_de_habitantes)
+ciudad=" nose we "
+print("ciudad es:", ciudad)
+print("el pais mas grande del mundo es", pais_mas_grande + "la cual tiene", numero_de_habitantes)
+#EJERCICIO 31
+marca_de_lavadora=" LG "
+print("marca de lavadora es:", marca_de_lavadora)
+cantidad_de_potencia=" 12 caballos de fuerza "
+print("cantidad de potencia:", cantidad_de_potencia)
+cantidad_de_ropa=" 56 prendas "
+print("cantidad de ropa", cantidad_de_ropa)
+print("mi lavadora", marca_de_lavadora + "tiene una potencia de", cantidad_de_potencia)
+#EJERCICIO 32
+marca_de_impresora=" EPSON "
+print("marca de impresora:", marca_de_impresora)
+cantidad_de_copias=" 7816 copias "
+print("cantidad de copias:", cantidad_de_copias)
+print("mi impresora",marca_de_impresora + "puede sacar", cantidad_de_copias)
+#EJERCICIO 33
+distancia_lambayeque=" 22 kilometros "
+print("distancia lambayeque es:", distancia_lambayeque)
+horas=" media hora "
+print("horas es:", horas)
+distancia_chiclayo=" 31 kilometros "
+print("distancia chiclayo es:", distancia_chiclayo)
+print("la distancia de tucume a lambayeque es", distancia_lambayeque + "y a chiclayo es de", distancia_chiclayo)
+#EJERCICIO 34
+nombre_del_empleado=" Brayan "
+print("nombre del empleado es:", nombre_del_empleado)
+horas_de_trabajo=" 8 horas "
+print("horas de trabajo es:",horas_de_trabajo)
+lugar_donde_vive_el_empleado=" tucume "
+print("lugar donde vive el empleado es:", lugar_donde_vive_el_empleado)
+print("el empleado", nombre_del_empleado + "vive en", lugar_donde_vive_el_empleado)
+#EJERCICIO 35
+numero_de_asesinatos=" 43 muertes "
+print("numero de asesinatos es:", numero_de_asesinatos)
+persona=" Juan "
+print("persona:", persona)
+fue_atrapada=" ayer "
+print("fue atrapada:",fue_atrapada)
+print("el asesino", persona + "fue atrapada", fue_atrapada + "por haber causado", numero_de_asesinatos)
+#EJERCICIO 36
+nombre_de_abuelo=" Manuel "
+print("nombre de abuelo:", nombre_de_abuelo)
+nombre_de_nieto=" Enrique "
+print("nombre de nieto:", nombre_de_nieto)
+propina=" 34 soles "
+print("propina:", propina)
+print("mi abuelo", nombre_de_abuelo + " le da una propina de", propina + "a mi primo", nombre_de_nieto)
+#EJERCICIO 38
+nombre_de_mascota=" rocki "
+print("nombre de mascotaes:", nombre_de_mascota)
+edad_de_mascota=" 3 meses "
+print(" edad de mascota es:", edad_de_mascota)
+print("mi perro llamado", nombre_de_mascota + "tiene", edad_de_mascota)
+#EJERCICIO 39
+cantidad_de_cerveza=" 3 litros "
+print("cantidad de cerveza:",cantidad_de_cerveza)
+personas_alcoholicas=" 12 personas "
+print("personas alcoholicas:", personas_alcoholicas)
+numero_de_vasos=" 5 vasos "
+print("numero de vasos:", numero_de_vasos)
+print("en la fiesta hay", personas_alcoholicas + "y van a consumir", cantidad_de_cerveza)
+#EJERCICIO 40
+numero_de_canales=" 163 canales "
+print("numero de canales:", numero_de_canales)
+personas_que_ven_tv=" 45 personas "
+print("personas que ven tv:", personas_que_ven_tv)
+pago_total=" 31 soles "
+print("pago total:", pago_total)
+print("en illimo", personas_que_ven_tv + "ven tv con", numero_de_canales + "y pagan", pago_total)
+#EJERCICIO 41
+numero_de_parejas=" 31 parejas "
+print("numero de parejas:", numero_de_parejas)
+numero_de_casados=" 20 parejas "
+print("numero de casados:",numero_de_casados)
+numero_de_novios=" 11 parejas "
+print("numero de novios:", numero_de_novios)
+print("en la familia hay",numero_de_parejas + "pero solo", numero_de_casados + "son casados")
+#EJERCICIO 42
+porcentaje_de_muertes=" 18% "
+print("porcentajes de muertes:", porcentaje_de_muertes)
+accidentes_de_autos=" 24 accidentes "
+print("accidentes de autos:", accidentes_de_autos)
+print("el", porcentaje_de_muertes + "de personas mueren por", accidentes_de_autos)
+#EJERCICIO 43
+marca="adidas"
+print("el valor de la variable marca es:", marca)
+pantalon=" short negro "
+print("el valor de la variable pantalon es:", pantalon)
+nombre=" Antony "
+print("el valor de la variable nombre es:", nombre)
+print("hola", nombre + "deberias usar tu", pantalon + "marca", marca)
+#EJERCICIO 44
+carrera="ing.industrial"
+print("carrera es:", carrera)
+universidad= " Pedro Ruiz Gallo "
+print("universidad es:", universidad)
+apodo=" universitario "
+print("apodo es:", apodo)
+print("hey", apodo + "bienvenido a la", universidad + "en la carrera", carrera)
+#EJERCICIO 45
+numero_de_choques_por_año=" 74 choques por año "
+print("choques por año es:", numero_de_choques_por_año)
+numero_de_muertos="355 muertos"
+print("numero de muertos es:", numero_de_muertos)
+print("en nuestro pais hay", numero_de_choques_por_año + "la cual causa", numero_de_muertos)
+#EJERCICIO 46
+nombre_del_profesor=" Elmer "
+print("nombre del profesor es:", nombre_del_profesor)
+curso_a_cargo=" tecnicas de estudio "
+print("curso a cargo es:", curso_a_cargo)
+solo_lo_llevan="ing.electronica y otros mas"
+print("solo lo llevan es:", solo_lo_llevan)
+print("el", nombre_del_profesor + "dicta la clase de", curso_a_cargo + "solo a los de", solo_lo_llevan)
+#EJERCICIO 47
+numero_de_niños_pobres=" 42 mil niños "
+print("numero de niños pobres es:", numero_de_niños_pobres)
+numero_de_adultos=" 24 adultos "
+print("numero de adultos es:", numero_de_adultos)
+numero_de_entradas_vendidas=" 79 tickets "
+print("numero de entradas vendidas es:", numero_de_entradas_vendidas)
+print("en el circo se vendieron", numero_de_entradas_vendidas + "las cuales entraron", numero_de_niños_pobres + "y", numero_de_adultos)
+#EJERCICO 48
+nombre_del_padre=" Julio "
+print("nombre del padre es:", nombre_del_padre)
+nombre_de_la_madre=" Maria "
+print("nombre de la madre es:", nombre_de_la_madre)
+numero_de_hijos_adoptados=" 2 hijos "
+print("numero de hijos es:", numero_de_hijos_adoptados)
+print(nombre_del_padre + "y", nombre_de_la_madre + "tienen", numero_de_hijos_adoptados)
+#EJERCICIO 49
+numero_de_telefono=" 926066552 "
+print("numero de telefono es:", numero_de_telefono)
+nombre_de_tia=" ruth "
+print("nombre de tia es:", nombre_de_tia)
+edad=" 43 años "
+print("edad es:", edad)
+print(nombre_de_tia + "de", edad + "tiene como numero de telefono", numero_de_telefono)
+#EJERCICIO 50
+edad_de_hermanastro=" 48 años "
+print("edad de hermanastro es:", edad_de_hermanastro)
+trabajo_de_hermanastro=" actor "
+print("trabajo de hermanastro es:", trabajo_de_hermanastro)
+lugar_donde_trabaja=" teatros "
+print("lugar donde trabaja en:", lugar_donde_trabaja)
+print("mi hermano de", edad_de_hermanastro + "trabaja como", trabajo_de_hermanastro + "en los", lugar_donde_trabaja)
+#EJERCICIO 51
+nombre_de_hermana=" xiomara "
+print("nombre de hermana es:", nombre_de_hermana)
+edad_de_hermana=" 2 añitos "
+print("edad de mi hermana es:", edad_de_hermana)
+estudia=" en el colegio 10225 "
+print("estudia en:", estudia)
+print(nombre_de_hermana + "de", edad_de_hermana + "estudia en", estudia)
+#EJERCICIO 52
+inicio_de_clases_cachimbo=" 30/09/19 "
+print("inicio de clases cachimbo es:", inicio_de_clases_cachmbo)
+carrera=" ing.civil "
+print("carrera de:", carrera)
+horario=" 7am - 2pm "
+print("horario es:", horario)
+print("mis estudios universitarios empezaron el", inicio_de_clases_cachimbo + "en la carrera de", carrera + "con el siguiente horario de", horario)
+#EJERCICIO 53
+mi_numero_de_celular=" 926066552 "
+print("mi numero de celular es:", mi_numero_de_celular)
+mi_edad=" 18 años "
+print("mi edad es:", mi_edad)
+genero=" masculino "
+print("genero es:", genero)
+print("tengo", mi_edad + ", mi numero es", mi_numero_de_celular + "y soy de genero", genero)
+#EJERCICIO 54
+el_numero_de_estudiantes_de_la_pedro=" 1589 de estudiantes "
+print(" el numero de estudiantes de la pedro es:", el_numero_de_estudiantes_de_la_pedro)
+el_numero_de_estudiantes_senati=" 849 de estudiantes "
+print("el numero de estudiantes senati es:", el_numero_de_estudiantes_senati)
+el_numero_de_estudiantes_UCV=" 2231 de estudiantes "
+print("el numero de estudiantes es:", el_numero_de_estudiantes_UCV)
+print("la cantidad de estudiantes de la pedro son", el_numero_de_estudiantes_de_la_pedro + "y en el senati son", el_numero_de_estudiantes_senati)
+#EJERCICO 55
+marca_de_ceular=" huawuei "
+print("marca de celular es:", marca_de_ceular)
+costo_de_celular=" 1550 soles "
+print("costo de celular es:", costo_de_celular)
+fecha_de_compra=" 21-03-18 "
+print("fecha de compra fue:",fecha_de_compra)
+print("me compré un celular de la marca", marca_de_ceular + "la cual me costó", costo_de_celular + "en la fecha", fecha_de_compra)
+#EJERCICIO 56
+codigo_de_estudiante=" 195694H "
+print("codigo de estudiante es:", codigo_de_estudiante)
+apellidos=" Carrillo Vasquez "
+print("Apellidos son:", apellidos)
+lugar_de_vivienda=" mochumi "
+print("lugar de vivienda es:", lugar_de_vivienda)
+print("el cachimbo", apellidos + "vive en el distrito de", lugar_de_vivienda + "la cual su codigo es", codigo_de_estudiante)
+#EJERCICIO 57
+numero_de_continentes=" 6 continentes "
+print("numero de continentes es:", numero_de_continentes)
+continente=" america del sur "
+print(" continente es:", continente)
+pais=" Perú "
+print("pais es:", pais)
+print("en el mundo hay", numero_de_continentes + "donde esta", continente + "donde podemos encontrar a", pais)
+#EJERCCIO 58
+estrella=" andromeda "
+print("estrella es:", estrella)
+sistema_solar=" plasmatico "
+planeta=" marte "
+print("planeta es:", planeta)
+print("la estrella mas cercana se llama", estrella + "y su tamaño es", sistema_solar + ",lejos de el existe el planeta llamado", planeta)
+#EJERCICIO 59
+colegio=" federico villareal "
+print(" colegio es:", colegio)
+numero_alumnos=" 57 alumnos "
+print("numero de alumnos es:", numero_alumnos)
+promocion=" gotitas del saber "
+print(" promocion es:", promocion)
+print(" el colegio particular", colegio + "su ultima promocion fue", promocion + "que tuvo",numero_alumnos)
+#EJERCICIO 60
+nombre_de_primo=" diego "
+print("nombre de primo:", nombre_de_primo)
+edad_de_primo=" 5 años"
+print("edad de primo:", edad_de_primo)
+lugar_donde_estudia=" estrellitas de jesus "
+print("lugar donde estudia es:", lugar_donde_estudia)
+print("mi primo", nombre_de_primo + "estudia en el colegio", lugar_donde_estudia)
+#EJERCICIO 61
+nombre_de_deporte=" basquet "
+print("nombre de deporte:",nombre_de_deporte)
+lo_juegan=" hombres y mujeres "
+print("lo juegan:", lo_juegan)
+print("el", nombre_de_deporte + "lo pueden jugar", lo_juegan)
